@@ -1,2 +1,2 @@
 # Onyums.github.io
-Fuck you Johnny
+A personal website for resumes
